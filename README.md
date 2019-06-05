@@ -37,9 +37,9 @@ special_freature 輸入2個數字自動運算 p x 取 y
 
 ### 挑戰二: 動態 module import 與 reload 觀念運用 (folder: x_2)
 
-> 請設計一個 module , 它內建一個 Attr_X 屬性會在被 import 時根據當下timestamp是奇偶數來決定是 true(奇數) or false (偶數)。
+> 請設計一個 module , 它內建一個 Attr_X 屬性會在被 import 時根據當下timestamp是奇偶數來決定是 true(奇數) or false (偶數)，且一旦決定就不會更改。
 
-> 請設計一個 for loop ，總共會執行 10 次，每次執行會隨機 sleep 1 ~ 9秒，且每次都會重新 import/reload 上述 module，並印出 X 的值
+> 請設計一個 for loop ，總共會執行 10 次，每次執行會隨機 sleep 1 ~ 9秒，且每次都會重新 reload 上述 module，並印出 X 的值
 
 
 ### 挑戰三: pip 及 Django 實作  (folder: x_3)
