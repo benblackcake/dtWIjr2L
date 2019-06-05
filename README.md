@@ -53,6 +53,5 @@ special_freature 輸入2個數字自動運算 p x 取 y
 5) 在當前的虛擬環境中使用 python manage.py shell，並將 Coffee import 進來，將結果截圖放至此資料夾，取名為 coffee.jpg
 
 
-
-
+## 當您挑戰結束時，請在您的最後一次 commit 中輸入您對此份工作，在程式上的期待，謝謝您。
 
